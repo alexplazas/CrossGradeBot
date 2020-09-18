@@ -62,4 +62,3 @@ client.on('message', message => {
 
 
 client.login(token);
-// NzU1Mjc4MjI4MjY4MjUzMjc2.X2A9qg.NBZKTYpNwq3x4I03ERb572bHSeU
